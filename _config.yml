@@ -1,7 +1,8 @@
 # Site
 title: Blessed the Band
 description: Our Journey with Jesus
-url: http://blessedtb.bitballoon.com
+baseurl: "/halve"
+url: http://gracejonn123.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
 
