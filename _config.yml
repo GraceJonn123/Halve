@@ -1,8 +1,8 @@
 # Site
 title: Halve
 description: Stylish, Two-Column Jekyll Theme
-url: http://gracejonn123.github.io/
 baseurl: "/halve"
+url: http://gracejonn123.github.io/halve
 logo: halve.png                                       # Site logo
 locale: en_US
 
